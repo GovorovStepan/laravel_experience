@@ -1,1 +1,1 @@
-First try of Laravel
+Ознакомление с Laravel. Первые пробы
